@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9eb503f89705d8f31b7b310e200ed20b\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9eb503f89705d8f31b7b310e200ed20b\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9eb503f89705d8f31b7b310e200ed20b\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9eb503f89705d8f31b7b310e200ed20b\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9eb503f89705d8f31b7b310e200ed20b\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9eb503f89705d8f31b7b310e200ed20b\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9eb503f89705d8f31b7b310e200ed20b\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9eb503f89705d8f31b7b310e200ed20b\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9eb503f89705d8f31b7b310e200ed20b\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout\\notification_action_tombstone.xml"
+    }
+]

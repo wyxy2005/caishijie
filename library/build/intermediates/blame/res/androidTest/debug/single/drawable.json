@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\drawable\\notification_icon_background.xml"
+    }
+]

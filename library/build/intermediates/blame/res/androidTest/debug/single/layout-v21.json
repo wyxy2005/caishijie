@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\mjwork\\xplan_kotlin-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\nicai\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ec8dcf4e8e30b63be9c823d39d0a6cf7\\res\\layout-v21\\notification_action.xml"
+    }
+]
