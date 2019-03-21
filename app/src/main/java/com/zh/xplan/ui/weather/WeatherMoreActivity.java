@@ -118,7 +118,7 @@ public class WeatherMoreActivity extends AppCompatActivity
             weatherView.setDrawerType(getWeatherType(weather));
 
             //赋值
-            LogUtil.e(TAG,"temperature:" + temperature);
+//            LogUtil.e(TAG,"temperature:" + temperature);
             if(temperature != null && temperature.endsWith("℃")){
                 LogUtil.e(TAG,"temperature.endsWith c:");
                 temperature = temperature.replace("℃","");

@@ -33,6 +33,7 @@ import com.zh.xplan.ui.menuvideo.kaiyanonlinevideo.KaiYanOnlineVideoFragment;
 import com.zh.xplan.ui.pulltorefreshdemo.PullToRefreshDemoActivity;
 import com.zh.xplan.ui.skin.SkinChangeHelper;
 import com.zh.xplan.ui.skin.SkinConfigHelper;
+import com.zh.xplan.ui.weather.WeatherMoreActivity;
 import com.zh.xplan.ui.webviewActivity.WeatherDetailsActivity;
 
 import org.qcode.qskinloader.SkinManager;
@@ -179,14 +180,14 @@ public class MainActivity extends BaseActivity
         switch (v.getId()) {
             case R.id.header_tv_temperature:// 打开web天气预报
                 Intent intent = new Intent(this,
-                        WeatherDetailsActivity.class);
-                intent.putExtra("URL", "http://www.uc123.com/tianqi.html");
+                        WeatherMoreActivity.class);
+//                intent.putExtra("URL", "http://www.uc123.com/tianqi.html");
                 startActivity(intent);
                 break;
             case R.id.tv_temperature_point:// 打开web天气预报
                 Intent intent1 = new Intent(this,
-                        WeatherDetailsActivity.class);
-                intent1.putExtra("URL", "http://www.uc123.com/tianqi.html");
+                        WeatherMoreActivity.class);
+//                intent1.putExtra("URL", "http://www.uc123.com/tianqi.html");
                 startActivity(intent1);
                 break;
             case R.id.header_tv_city_name:// 城市选择

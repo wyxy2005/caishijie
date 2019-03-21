@@ -5,7 +5,7 @@ package com.zh.xplan
  */
 object AppConstants {
     //调试模式开关
-    const val isDebug = true
+    const val isDebug = false
 
     //网络接口base url
     const val HTTP_HOST = "http://localhost:8080/"
